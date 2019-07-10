@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<HighScoreHolder xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Capacity>5</Capacity>
+  <Entries>
+    <ScoreEntry>
+      <Score>900</Score>
+      <Name>lulu</Name>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Score>710</Score>
+      <Name>kadir</Name>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Score>680</Score>
+      <Name>Ekrem</Name>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Score>680</Score>
+      <Name>mert</Name>
+    </ScoreEntry>
+    <ScoreEntry>
+      <Score>650</Score>
+      <Name>kdr</Name>
+    </ScoreEntry>
+  </Entries>
+</HighScoreHolder>
